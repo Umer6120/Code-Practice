@@ -1,2 +1,2 @@
 # Code-Practice
-This is for Code Practice
+This is for Code Practic
